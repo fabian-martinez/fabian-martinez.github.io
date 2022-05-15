@@ -3,5 +3,6 @@
 source "https://rubygems.org"
 gemspec
 
-# for demo site
-gem "jekyll-paginate"
+gem 'jekyll-paginate', '~> 1.1'
+# for development
+gem 'webrick'

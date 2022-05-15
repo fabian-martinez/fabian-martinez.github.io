@@ -1,8 +1,8 @@
-- title: About
-  url: /about.html
+- title: Resume
+  url: /cv/
 
 - title: Source
-  url: https://github.com/patdryburgh/hitchens
+  url: https://github.com/fabian-martinez/fabian-martinez.github.io
 
 - title: Designer
   url: http://patdryburgh.com
